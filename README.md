@@ -13,3 +13,10 @@ This pipeline processes XML files containing 2D point data to build and analyze 
 6. Visualizes and optionally saves graphs, curvature distributions, and community layouts.
 
 This workflow enables geometric and community structure analysis of spatial data with configurable parameters.
+
+
+## Initial Graph with Ricci Curvature
+![Initial Graph](output_file/Output_TCGA-2Z-A9J9-01A-01-TS1/TCGA-2Z-A9J9-01A-01-TS1_00_initial_ricci.png)
+
+## Louvain Communities Detected
+![Louvain Communities](output_file/Output_TCGA-2Z-A9J9-01A-01-TS1/TCGA-2Z-A9J9-01A-01-TS1_kNNk7_Ollivier_Surg-percentage_negative_0p05_CommAwareL_LouvainRes_0p70.png)
