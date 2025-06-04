@@ -19,4 +19,4 @@ This workflow enables geometric and community structure analysis of spatial data
 ![Initial Graph](output_file/Output_TCGA-2Z-A9J9-01A-01-TS1/TCGA-2Z-A9J9-01A-01-TS1_00_initial_ricci.png)
 
 ## Louvain Communities Detected
-![Louvain Communities](output_file/Output_TCGA-2Z-A9J9-01A-01-TS1/TCGA-2Z-A9J9-01A-01-TS1_kNNk7_Ollivier_Surg-percentage_negative_0p05_CommAwareL_LouvainRes_0p70.png)
+![Louvain Communities](output_file/Output_TCGA-2Z-A9J9-01A-01-TS1/TCGA-2Z-A9J9-01A-01-TS1_kNNk7_Ollivier_Surg-percentage_negative_0p05_CommAwareL_LouvainRes_0p85.png)
